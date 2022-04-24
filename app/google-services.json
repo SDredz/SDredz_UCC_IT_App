@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994224962813",
+    "project_id": "sdredz-ucc-it-app",
+    "storage_bucket": "sdredz-ucc-it-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994224962813:android:2dbf28ed1ecb3f40171294",
+        "android_client_info": {
+          "package_name": "com.example.sdredzuccitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994224962813-p6fplbc2qnhg3nibtg0f1g6pref6kf04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSsxNtZpTX_A_0l6E2zREGegI2jVX6j4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994224962813-p6fplbc2qnhg3nibtg0f1g6pref6kf04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
